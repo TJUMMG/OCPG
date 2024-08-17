@@ -1,0 +1,12 @@
+setup.py
+/media/HardDisk_B/Users/wx/wwk_files/codes/referring_video_segmentation/sgmg_ablations/models/ops/src/vision.cpp
+/media/HardDisk_B/Users/wx/wwk_files/codes/referring_video_segmentation/sgmg_ablations/models/ops/src/cpu/ms_deform_attn_cpu.cpp
+/media/HardDisk_B/Users/wx/wwk_files/codes/referring_video_segmentation/sgmg_ablations/models/ops/src/cuda/ms_deform_attn_cuda.cu
+MultiScaleDeformableAttention.egg-info/PKG-INFO
+MultiScaleDeformableAttention.egg-info/SOURCES.txt
+MultiScaleDeformableAttention.egg-info/dependency_links.txt
+MultiScaleDeformableAttention.egg-info/top_level.txt
+functions/__init__.py
+functions/ms_deform_attn_func.py
+modules/__init__.py
+modules/ms_deform_attn.py
